@@ -2,6 +2,14 @@
 
   # Blocks
   #
+  'Openshift Container Platform':
+    description: 'OCp atttribute'
+    descriptionMoreURL: 'http://asciidoctor.org/docs/user-manual/#comments'
+    prefix: 'Openshift Container Platform'
+    body: '''
+      {product-title}
+      '''
+
   'Comment Block':
     description: 'Comment block'
     descriptionMoreURL: 'http://asciidoctor.org/docs/user-manual/#comments'

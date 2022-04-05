@@ -1,13 +1,13 @@
 {
-  "name": "autocomplete-asciidoc",
-  "version": "0.1.2",
+  "name": "attributes-asciidoc",
+  "version": "0.0.0",
   "description": "AsciiDoc language autocompletions",
   "keywords": [
-    "asciidoctor",
-    "asciidoc",
-    "autocomplete"
+    "redhat",
+    "OCP",
+    "attributes"
   ],
-  "repository": "https://github.com/asciidoctor/atom-autocomplete-asciidoc",
+  "repository": "https://github.com/darshan-nagaraj/atom-attributes",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
