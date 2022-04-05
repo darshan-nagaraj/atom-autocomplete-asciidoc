@@ -7,7 +7,7 @@
     "OCP",
     "attributes"
   ],
-  "repository": "https://github.com/darshan-nagaraj/atom-attributes",
+  "repository": "https://github.com/darshan-nagaraj/attributes-asciidoc",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
